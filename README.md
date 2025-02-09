@@ -48,7 +48,7 @@ QuizMaster is a powerful **Java Swing Desktop Application** designed for student
 2. **Double-click** the `.jar` file to launch the application.
 3. If the JAR doesn’t open, run it via the command line:
    ```sh
-   java -jar QuizMaster.jar
+   java -jar Quiz_Master_MuhammadHasnatRasool.jar
    ```
 
 ---
